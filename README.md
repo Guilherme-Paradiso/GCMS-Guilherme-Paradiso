@@ -21,3 +21,5 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Davi Freitas (@DCF-2, colaborador)
 * Samara Silva (@samaravictoria10, colaboradora)
 * Gustavo Medeiros (@gustavo-mdrs, colaborador)
+
+[README](https://github.com/ramidedantas/GCMS-2022-2/edit/main/README.md)
