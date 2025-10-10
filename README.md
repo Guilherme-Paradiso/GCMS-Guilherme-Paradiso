@@ -5,8 +5,8 @@ Colaboradores
 Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 
 Ramide Augusto Sales Dantas (@ramidedantas, dono)
-
 Wallace Gabriel da Silva (@wgabbriel, colaborador)
+
 Izabelle Tais (@izab3lle, colaboradora)
 Julia Soares (@juliasoaresm, colaboradora)
 Vitor Silva (@0xffff08, colaborador)
