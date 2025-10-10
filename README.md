@@ -22,6 +22,6 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Samara Silva (@samaravictoria10, colaboradora)
 * Gustavo Medeiros (@gustavo-mdrs, colaborador)
 
-[label](Documetantion)
+[DOCUMENTATION]
 @ramidedantas
 [README](https://github.com/Guilherme-Paradiso/GCMS-Guilherme-Paradiso/edit/main/README.md)
