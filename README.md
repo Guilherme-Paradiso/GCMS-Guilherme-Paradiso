@@ -4,7 +4,7 @@ Repositório da turma de GCMS do IFPE-Recife, 2025.2!
 # Colaboradores
 Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 
-* Ramide Augusto Sales Dantas (@ramidedantas, dono)
+* Guilherme Paradiso (@Guilherme-Paradiso, dono)
 * Wallace Gabriel da Silva (@wgabbriel, colaborador)
 * Izabelle Tais (@izab3lle, colaboradora)
 * Julia Soares (@juliasoaresm, colaboradora)
@@ -16,7 +16,6 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Clarice Queiroz (@Clarice172102, colaboradora)
 * Marina Costa (@mcdssd, colaboradora)
 * Marcos André (@Marcos-0215, colaborador)
-* Guilherme Paradiso (@Guilherme-Paradiso, colaborador)
 * Rebeka Andrade (@Peixe-blue, colaboradora)
 * Davi Freitas (@DCF-2, colaborador)
 * Samara Silva (@samaravictoria10, colaboradora)
