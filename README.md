@@ -24,4 +24,3 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 
 [label](DOCUMETATION)
 @ramidedantas
-[README](https://github.com/Guilherme-Paradiso/GCMS-Guilherme-Paradiso/edit/main/README.md)
