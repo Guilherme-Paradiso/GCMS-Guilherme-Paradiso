@@ -22,5 +22,3 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Samara Silva (@samaravictoria10, colaboradora)
 * Gustavo Medeiros (@gustavo-mdrs, colaborador)
 
-[label](DOCUMETATION)
-@ramidedantas
