@@ -49,6 +49,16 @@ class WebAppApplicationTests {
 
 	@Test
 	public void shouldReturnDefaultMessage4() throws Exception {
+		this.mockMvc.perform(get("/hotfix"))
+
+				.andDo(print()).andExpect(status().isOk())
+				.andExpect(content()
+						.string(containsString("Hello, hotfix!")));
+
+	}
+
+	@Test
+	public void shouldReturnDefaultMessage5() throws Exception {
 		this.mockMvc.perform(get("/conflitos"))
 
 				.andDo(print()).andExpect(status().isOk())
